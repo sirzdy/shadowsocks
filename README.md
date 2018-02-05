@@ -8,9 +8,6 @@
 
 * [本文链接-简书](https://www.jianshu.com/p/74083a8ea6a9)
 
-> VPS QQ讨论群：633509738。
-> 有需要直接远程协助的，安装好远程协助工具TeamViewer 后Q我：958823752。（全程协助收费 ¥25/次）
-
 # 请先读我
 ## 实现原理
 本地发起连接请求，由远程服务器响应后然后将我们需要的数据返回到本地。
@@ -261,20 +258,4 @@ vi 的命令: 按 "i" 进入编辑模式，编辑后按 "esc" 退出编辑模式
 ### 计费模式
 
 服务器按照小时计费，如果一台服务器创建1天后就销毁了，那么只扣1天的费用。例如：服务器一个月$5，那么1天扣除的就是5/30美元。
-
-    
-
-## Vlutr服务器链接详细说明
-
-官网链接，给出的是我的推广链接，具体的推广奖励规则见下图，好心人就点这个链接吧，如果消费不到$10，也没关系，原则就是争取在双方利益都不受影响的情况下最大化利益。
-
-[我的夏季促销链接](http://www.vultr.com/?ref=7044457-3B)
-
-![夏季促销推广说明](http://upload-images.jianshu.io/upload_images/606686-d311cde97d1b2c89.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-[我的普通推广链接](http://www.vultr.com/?ref=7039524)
-
-![普通推广说明](http://upload-images.jianshu.io/upload_images/606686-901db252474a48eb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
 
