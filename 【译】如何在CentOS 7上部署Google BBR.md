@@ -36,7 +36,7 @@
 
 使用ELRepo库安装4.9.0内核： 
     
-    sudo yum --enablerepo = elrepo-kernel安装kernel-ml -y
+    sudo yum --enablerepo="elrepo-kernel" install kernel-ml -y
 
 确认结果:
 
