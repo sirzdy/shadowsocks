@@ -1,5 +1,7 @@
 # 使用 Vultr 搭建 ShadowSocks /VPS搭建SS（超详细）
 
+## **文章已过时：请移步 [https://github.com/theFutureThen/xray](https://github.com/theFutureThen/xray)**
+
 **声明：文章原创，可以全文转载，禁止转载修改，禁止抄袭**
 
 **声明：本文仅供测试，请依照相关法律合法使用**
